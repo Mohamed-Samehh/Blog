@@ -23,8 +23,8 @@ This is a simple blog application built with Laravel, designed to showcase the f
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Karem-sobhy/nafis-blog.git
-   cd nafis-blog
+   git clone https://github.com/Mohamed-Samehh/Blog
+   cd Blog
    ```
 
 2. **Install dependencies:**
