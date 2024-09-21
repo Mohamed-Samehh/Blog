@@ -1,6 +1,6 @@
-# Nafis Blog
+# Blog (Backend for Blog Website)
 
-Welcome to **Nafis Blog**! This is a simple blog application built with Laravel, designed to showcase the fundamentals of a modern blog, including post creation, nested comments, likes, and more.
+This is a simple blog application built with Laravel, designed to showcase the fundamentals of a modern blog, including post creation, nested comments, likes, and more.
 
 ## Features
 
@@ -74,30 +74,3 @@ Welcome to **Nafis Blog**! This is a simple blog application built with Laravel,
 - **Laravel**: PHP framework for backend logic.
 - **Spatie Media Library**: For media handling (image uploads).
 - **MySQL/MariaDB**: Relational database.
-
-## Contributing
-
-Feel free to fork the repository and submit pull requests to improve the blog or add new features.
-
-### Steps to Contribute:
-
-1. Fork the project.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-new-feature
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Added a new feature"
-   ```
-4. Push the branch to your fork:
-   ```bash
-   git push origin feature-new-feature
-   ```
-5. Open a pull request.
-
-## Contact
-
-For any inquiries or feedback, feel free to reach out at [ksobhy@nafistech.com](mailto:ksobhy@nafistech.com).
-
----
